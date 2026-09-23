@@ -38,7 +38,7 @@ Backend-focused engineer with 7+ years of experience building scalable systems â
 
 **Infrastructure & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-2B2B2B?style=for-the-badge&logo=amazonaws&logoColor=FEBFCA)
+![AWS](https://img.shields.io/badge/AWS-2B2B2B?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-2B2B2B?style=for-the-badge&logo=cloudflare&logoColor=FEBFCA)
 ![Docker](https://img.shields.io/badge/Docker-2B2B2B?style=for-the-badge&logo=docker&logoColor=FEBFCA)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2B2B2B?style=for-the-badge&logo=githubactions&logoColor=FEBFCA)
@@ -64,7 +64,7 @@ Backend-focused engineer with 7+ years of experience building scalable systems â
 
 [![Website](https://img.shields.io/badge/zakir.id-2B2B2B?style=for-the-badge&logo=googlechrome&logoColor=FEBFCA)](https://zakir.id)
 [![Email](https://img.shields.io/badge/hi%40zakir.id-2B2B2B?style=for-the-badge&logo=gmail&logoColor=FEBFCA)](mailto:hi@zakir.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=FEBFCA)](https://www.linkedin.com/in/muhammadzakir39/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge)](https://www.linkedin.com/in/muhammadzakir39/)
 
 <p align="center">
   <img src="assets/divider-pink.svg" width="600" height="2" alt="" />
