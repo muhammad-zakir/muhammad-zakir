@@ -52,27 +52,13 @@ Backend-focused engineer with 7+ years of experience building scalable systems â
 
 ## ðŸ“Š GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhammad-zakir&show_icons=true&hide_border=true&bg_color=2B2B2B&title_color=FEBFCA&icon_color=FEBFCA&text_color=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muhammad-zakir&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2B2B2B&icon_color=FEBFCA&text_color=2B2B2B" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-zakir&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2B2B2B&icon_color=FEBFCA&text_color=2B2B2B" alt="GitHub Stats" height="165" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-zakir&layout=compact&hide_border=true&bg_color=2B2B2B&title_color=FEBFCA&text_color=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-zakir&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2B2B2B&text_color=2B2B2B" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-zakir&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2B2B2B&text_color=2B2B2B" alt="Top Languages" height="165" />
-</picture>
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-zakir&hide_border=true&background=2B2B2B&ring=FEBFCA&fire=FEBFCA&currStreakLabel=FEBFCA&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-zakir&hide_border=true&background=FFFFFF&ring=FEBFCA&fire=FEBFCA&currStreakLabel=2B2B2B&sideLabels=2B2B2B&sideNums=2B2B2B&dates=2B2B2B" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-zakir&hide_border=true&background=FFFFFF&ring=FEBFCA&fire=FEBFCA&currStreakLabel=2B2B2B&sideLabels=2B2B2B&sideNums=2B2B2B&dates=2B2B2B" alt="GitHub Streak" height="165" />
 </picture>
-
-</div>
+</p>
 
 ## Get in Touch
 
