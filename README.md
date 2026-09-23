@@ -4,9 +4,9 @@
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-‎-2B2B2B?style=flat-square&height=3" width="600" />
-</div>
+<p align="center">
+  <img src="assets/divider-graphite.svg" width="600" height="2" alt="" />
+</p>
 
 ## About Me
 
@@ -80,6 +80,6 @@ Backend-focused engineer with 7+ years of experience building scalable systems �
 [![Email](https://img.shields.io/badge/hi%40zakir.id-2B2B2B?style=for-the-badge&logo=gmail&logoColor=FEBFCA)](mailto:hi@zakir.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=FEBFCA)](https://www.linkedin.com/in/muhammadzakir39/)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-‎-FEBFCA?style=flat-square&height=3" width="600" />
-</div>
+<p align="center">
+  <img src="assets/divider-pink.svg" width="600" height="2" alt="" />
+</p>
