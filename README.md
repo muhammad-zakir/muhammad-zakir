@@ -12,7 +12,7 @@
 
 Backend-focused engineer with 7+ years of experience building scalable systems ‚Äî spanning PHP frameworks (CodeIgniter, Laravel), JS/TS runtimes (Adonis, Fastify, NestJS), and frontend work in React, Svelte, and Vue. Comfortable across the stack, currently exploring Elixir/Phoenix and Rust.
 
-## ‚öô Tech Stack
+## Tech Stack
 
 **Backend**
 
@@ -26,7 +26,7 @@ Backend-focused engineer with 7+ years of experience building scalable systems ‚
 ![Flask](https://img.shields.io/badge/Flask-2B2B2B?style=for-the-badge&logo=flask&logoColor=FEBFCA)
 ![Celery](https://img.shields.io/badge/Celery-2B2B2B?style=for-the-badge&logo=celery&logoColor=FEBFCA)
 
-**‚óÜ Frontend**
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=FEBFCA)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2B2B2B?style=for-the-badge&logo=typescript&logoColor=FEBFCA)
@@ -36,7 +36,7 @@ Backend-focused engineer with 7+ years of experience building scalable systems ‚
 ![Vue.js](https://img.shields.io/badge/Vue.js-2B2B2B?style=for-the-badge&logo=vuedotjs&logoColor=FEBFCA)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2B2B2B?style=for-the-badge&logo=tailwindcss&logoColor=FEBFCA)
 
-**‚òÅ Infrastructure & DevOps**
+**Infrastructure & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-2B2B2B?style=for-the-badge&logo=amazonaws&logoColor=FEBFCA)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-2B2B2B?style=for-the-badge&logo=cloudflare&logoColor=FEBFCA)
@@ -50,7 +50,7 @@ Backend-focused engineer with 7+ years of experience building scalable systems ‚
 ![Phoenix](https://img.shields.io/badge/Phoenix-FEBFCA?style=for-the-badge&logo=phoenixframework&logoColor=2B2B2B)
 ![Rust](https://img.shields.io/badge/Rust-FEBFCA?style=for-the-badge&logo=rust&logoColor=2B2B2B)
 
-## üìä GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <picture>
